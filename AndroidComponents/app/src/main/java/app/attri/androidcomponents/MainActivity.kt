@@ -93,7 +93,7 @@ fun Components() {
             onClick = {
                 if (buttonStatus.value) {
                     myButtonBackgroundColor.value = Color.Black
-                    myButtonText.value = "Compose is fun"
+                    myButtonText.value = "Compose is fun \uD83D\uDE0A"
                     myButtonTextColor.value = Color.Red
                     myText.value = "Hello Compose"
                     myTextColor.value = Color.White
